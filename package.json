@@ -1,0 +1,23 @@
+{
+  "name": "hallo",
+  "version": "1.0.0",
+  "description": "this is hallo",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamsantoshku/hallo.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "santosh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iamsantoshku/hallo/issues"
+  },
+  "homepage": "https://github.com/iamsantoshku/hallo#readme"
+}
